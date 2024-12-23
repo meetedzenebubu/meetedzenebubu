@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meetedzenebubu
-- 🐍 I’m interested in python
+- 🐍 I’m interested in python and django
 - 🌱 I’m currently learning web development
 - 📫 How to reach me edzenebubu@gmail.com
 
