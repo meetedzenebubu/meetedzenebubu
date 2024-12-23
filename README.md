@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meetedzenebubu
-- 👀 I’m interested in HTML, CSS and JavaScript
-- 🌱 I’m currently learning Front-End Development 
+- 🐍 I’m interested in python
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that need Front-End specialization
 - 📫 How to reach me edzenebubu@gmail.com
 
