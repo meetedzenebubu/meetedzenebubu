@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meetedzenebubu
-- 🐍 I’m interested in python, javascript and ruby
-- 🌱 I’m currently learning web development
+- 💻 I’m interested in python, javascript and ruby
+- 🌱 I’m currently learning software development
 - 📫 How to reach me edzenebubu@gmail.com
 
 <!---
